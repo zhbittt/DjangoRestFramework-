@@ -61,7 +61,9 @@ class IndexView(APIView):
     throttle_classes = [AnonSimpleRateThrottle,UserSimpleRateThrottle]
     def get(self,request):
         # self.dispatch
-        return Response({'info':'查看主页'})
+        # return Response({'info':'查看主页'})
+        from django.shortcuts import HttpResponse
+        return HttpResponse('.....')
 
     # def throttled(self, request, wait):
     #     class MyThrottled(exceptions.Throttled):

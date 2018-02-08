@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://D:/Anaconda/Lib/site-packages/rest_framework/versioning.py" line="0" mnemonic="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e201094-1615-44b8-a11e-9f0e80547859" name="Default" comment="" />
+    <list default="true" id="7e201094-1615-44b8-a11e-9f0e80547859" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/309dc90d-4e4e-420c-9019-04a00b8098bf.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/309dc90d-4e4e-420c-9019-04a00b8098bf.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app01/AA.py" afterPath="$PROJECT_DIR$/app01/AA.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app04/views.py" afterPath="$PROJECT_DIR$/app04/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest_framework_poject/settings.py" afterPath="$PROJECT_DIR$/rest_framework_poject/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest_framework_poject/urls.py" afterPath="$PROJECT_DIR$/rest_framework_poject/urls.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rest_framework_poject$AA.coverage" NAME="AA Coverage Results" MODIFIED="1517841354607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app01" />
+    <SUITE FILE_PATH="coverage/rest_framework_poject$AA.coverage" NAME="AA Coverage Results" MODIFIED="1517934434544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app01" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -51,27 +62,42 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app03/views.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app_serializers/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="95" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="218">
+              <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <element signature="e#375#1488#0" expanded="false" />
-                <element signature="e#546#1318#0" expanded="false" />
-                <element signature="e#1348#1485#0" expanded="false" />
-                <element signature="e#1488#1537#0" expanded="false" />
+                <element signature="e#262#469#0" expanded="false" />
+                <element signature="e#501#1016#0" expanded="false" />
+                <element signature="e#1130#1322#0" expanded="false" />
+                <element signature="e#1509#2279#0" expanded="false" />
+                <element signature="e#2312#2493#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app02/views.py">
+        <entry file="file://$PROJECT_DIR$/app04/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-284">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="1273">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#2081#2118#0" expanded="false" />
+                <element signature="e#2738#2775#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_version/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -79,66 +105,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app04/views.py">
+      <file leaf-file-name="fields.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/fields.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            <state relative-caret-position="5073">
+              <caret line="306" column="8" lean-forward="false" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <element signature="e#1992#2029#0" expanded="false" />
-                <element signature="e#2649#2686#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="authentication.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/authentication.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#49#1" expanded="false" />
-                <element signature="e#471#819#0" expanded="false" />
-                <element signature="e#471#614#1" expanded="false" />
-                <element signature="e#714#803#0" expanded="false" />
-                <element signature="e#863#983#0" expanded="false" />
-                <element signature="e#907#983#0" expanded="false" />
-                <element signature="e#1024#1100#1" expanded="false" />
-                <element signature="e#1147#1236#1" expanded="false" />
-                <element signature="e#1363#1600#1" expanded="false" />
-                <element signature="e#1667#1735#1" expanded="false" />
-                <element signature="e#1817#2884#0" expanded="false" />
-                <element signature="e#1817#1979#1" expanded="false" />
-                <element signature="e#2154#2266#0" expanded="false" />
-                <element signature="e#2307#2440#0" expanded="false" />
-                <element signature="e#2626#2755#0" expanded="false" />
-                <element signature="e#2966#3531#0" expanded="false" />
-                <element signature="e#2966#3099#1" expanded="false" />
-                <element signature="e#3122#3219#0" expanded="false" />
-                <element signature="e#3585#3640#0" expanded="false" />
-                <element signature="e#3696#4651#0" expanded="false" />
-                <element signature="e#3696#3762#1" expanded="false" />
-                <element signature="e#3809#4305#0" expanded="false" />
-                <element signature="e#3809#3938#1" expanded="false" />
-                <element signature="e#4352#4651#0" expanded="false" />
-                <element signature="e#4352#4433#1" expanded="false" />
-                <element signature="e#4530#4651#0" expanded="false" />
-                <element signature="e#4705#6672#0" expanded="false" />
-                <element signature="e#4705#4974#1" expanded="false" />
-                <element signature="e#5049#5184#0" expanded="false" />
-                <element signature="e#5190#5376#1" expanded="false" />
-                <element signature="e#5423#6175#0" expanded="false" />
-                <element signature="e#5610#5722#0" expanded="false" />
-                <element signature="e#5763#5890#0" expanded="false" />
-                <element signature="e#5983#6122#0" expanded="false" />
-                <element signature="e#6230#6599#0" expanded="false" />
-                <element signature="e#6653#6672#0" expanded="false" />
-                <element signature="e#6731#7441#0" expanded="false" />
-                <element signature="e#6731#7017#1" expanded="false" />
-                <element signature="e#7023#7095#0" expanded="false" />
-                <element signature="e#7311#7441#0" expanded="false" />
+                <element signature="e#64498#65359#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -147,8 +120,8 @@
       <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1058">
-              <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+            <state relative-caret-position="551">
+              <caret line="141" column="6" lean-forward="false" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
               <folding>
                 <element signature="e#0#388#1" expanded="false" />
                 <element signature="e#902#1183#0" expanded="false" />
@@ -172,44 +145,29 @@
                 <element signature="e#4283#4350#0" expanded="false" />
                 <element signature="e#4397#4439#0" expanded="false" />
                 <element signature="e#4469#4847#1" expanded="false" />
-                <element signature="e#4980#6134#0" expanded="false" />
-                <element signature="e#6179#6234#0" expanded="false" />
-                <element signature="e#6286#6386#0" expanded="false" />
-                <element signature="e#6432#6623#0" expanded="false" />
                 <element signature="e#6432#6521#1" expanded="false" />
                 <element signature="e#6675#6746#1" expanded="false" />
-                <element signature="e#6823#6930#0" expanded="false" />
                 <element signature="e#6974#7131#1" expanded="false" />
                 <element signature="e#7803#8087#0" expanded="false" />
                 <element signature="e#7803#7944#1" expanded="false" />
                 <element signature="e#7996#8061#0" expanded="false" />
                 <element signature="e#8141#8279#1" expanded="false" />
                 <element signature="e#8405#8547#1" expanded="false" />
-                <element signature="e#8754#9329#0" expanded="false" />
-                <element signature="e#8754#8822#1" expanded="false" />
-                <element signature="e#8875#9329#0" expanded="false" />
-                <element signature="e#8959#9046#0" expanded="false" />
-                <element signature="e#9123#9190#0" expanded="false" />
-                <element signature="e#9367#9904#0" expanded="false" />
                 <element signature="e#9952#10229#0" expanded="false" />
                 <element signature="e#9952#10032#1" expanded="false" />
                 <element signature="e#10068#10138#0" expanded="false" />
-                <element signature="e#10261#12304#0" expanded="false" />
                 <element signature="e#10261#10423#1" expanded="false" />
                 <element signature="e#10558#10970#0" expanded="false" />
                 <element signature="e#10632#10702#0" expanded="false" />
                 <element signature="e#11033#11297#0" expanded="false" />
-                <element signature="e#11579#12010#0" expanded="false" />
                 <element signature="e#11579#11642#0" expanded="false" />
                 <element signature="e#12020#12066#0" expanded="false" />
-                <element signature="e#12233#12304#0" expanded="false" />
                 <element signature="e#12343#12454#1" expanded="false" />
                 <element signature="e#12950#13100#1" expanded="false" />
                 <element signature="e#13480#13770#0" expanded="false" />
                 <element signature="e#13480#13631#1" expanded="false" />
                 <element signature="e#13814#14006#0" expanded="false" />
                 <element signature="e#13853#13996#0" expanded="false" />
-                <element signature="e#14050#14325#0" expanded="false" />
                 <element signature="e#14370#14666#0" expanded="false" />
                 <element signature="e#14370#14441#0" expanded="false" />
                 <element signature="e#14718#14926#0" expanded="false" />
@@ -221,64 +179,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_framework_poject/urls.py">
+      <file leaf-file-name="relations.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/relations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <element signature="e#655#687#0" expanded="true" />
+                <element signature="e#16#55#0" expanded="true" />
+                <element signature="e#9187#9544#0" expanded="false" />
+                <element signature="e#10393#10775#0" expanded="false" />
+                <element signature="e#11457#12597#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="throttling.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/throttling.py">
+      <file leaf-file-name="reverse.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/reverse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#45#1" expanded="false" />
-                <element signature="e#293#337#1" expanded="false" />
-                <element signature="e#598#1307#0" expanded="false" />
-                <element signature="e#598#833#1" expanded="false" />
-                <element signature="e#1519#1938#1" expanded="false" />
-                <element signature="e#2343#2528#1" expanded="false" />
-                <element signature="e#2635#3148#0" expanded="false" />
-                <element signature="e#2635#2723#1" expanded="false" />
-                <element signature="e#3190#3571#0" expanded="false" />
-                <element signature="e#3190#3333#1" expanded="false" />
-                <element signature="e#3625#3802#1" expanded="false" />
-                <element signature="e#4058#4120#0" expanded="false" />
-                <element signature="e#4431#4537#1" expanded="false" />
-                <element signature="e#4702#4788#1" expanded="false" />
-                <element signature="e#4839#4916#1" expanded="false" />
-                <element signature="e#5327#5483#1" expanded="false" />
-                <element signature="e#5693#5782#0" expanded="false" />
-                <element signature="e#5833#6378#0" expanded="false" />
-                <element signature="e#5833#6070#1" expanded="false" />
-                <element signature="e#6143#6378#0" expanded="false" />
-                <element signature="e#6307#6378#0" expanded="false" />
-                <element signature="e#6431#8084#0" expanded="false" />
-                <element signature="e#6431#6737#1" expanded="false" />
-                <element signature="e#6805#6930#0" expanded="false" />
-                <element signature="e#6805#6872#0" expanded="false" />
-                <element signature="e#6984#7564#0" expanded="false" />
-                <element signature="e#7246#7310#0" expanded="false" />
-                <element signature="e#7618#8084#0" expanded="false" />
-                <element signature="e#7618#7840#1" expanded="false" />
-                <element signature="e#8013#8084#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_framework_poject/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="25" />
+            <state relative-caret-position="494">
+              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -287,11 +207,58 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="172" column="11" lean-forward="true" selection-start-line="172" selection-start-column="11" selection-end-line="172" selection-end-column="11" />
+            <state relative-caret-position="3211">
+              <caret line="359" column="8" lean-forward="false" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
               <folding>
+                <element signature="e#4212#5145#0" expanded="false" />
+                <element signature="e#5200#5335#0" expanded="false" />
+                <element signature="e#5399#5579#0" expanded="false" />
+                <element signature="e#5654#5847#0" expanded="false" />
+                <element signature="e#5913#6190#0" expanded="false" />
+                <element signature="e#6240#6372#0" expanded="false" />
+                <element signature="e#6430#6710#0" expanded="false" />
+                <element signature="e#6768#7175#0" expanded="false" />
+                <element signature="e#7221#7676#0" expanded="false" />
+                <element signature="e#7731#8054#0" expanded="false" />
+                <element signature="e#8093#8316#0" expanded="false" />
+                <element signature="e#8374#8600#0" expanded="false" />
+                <element signature="e#8693#8891#0" expanded="false" />
+                <element signature="e#8930#9090#0" expanded="false" />
+                <element signature="e#9323#9486#0" expanded="false" />
+                <element signature="e#9527#9696#0" expanded="false" />
+                <element signature="e#9735#9892#0" expanded="false" />
+                <element signature="e#10218#10339#0" expanded="false" />
+                <element signature="e#10455#10858#0" expanded="false" />
+                <element signature="e#10915#11204#0" expanded="false" />
+                <element signature="e#11256#11706#0" expanded="false" />
                 <element signature="e#11770#12182#0" expanded="false" />
-                <element signature="e#12592#12952#0" expanded="false" />
+                <element signature="e#12232#12523#0" expanded="false" />
+                <element signature="e#14295#15476#0" expanded="false" />
+                <element signature="e#15523#16369#0" expanded="false" />
+                <element signature="e#16424#16720#0" expanded="false" />
+                <element signature="e#18035#18343#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest_framework_poject/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2698">
+              <caret line="142" column="35" lean-forward="false" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest_framework_poject/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+              <folding>
+                <element signature="e#655#695#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -303,6 +270,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -318,23 +286,41 @@
       <find>show_form_for_method</find>
       <find>get_rendered_html_form</find>
       <find>render</find>
+      <find>determine_version</find>
+      <find>CONTENT_TYPE</find>
+      <find>ModelDurationField</find>
+      <find>serializer_field_mapping</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="D:/Anaconda/Lib/site-packages/rest_framework/authentication.py" />
         <option value="$PROJECT_DIR$/app01/models.py" />
-        <option value="$PROJECT_DIR$/app01/AA.py" />
         <option value="D:/Anaconda/Lib/site-packages/rest_framework/permissions.py" />
         <option value="$PROJECT_DIR$/app02/views.py" />
-        <option value="$PROJECT_DIR$/rest_framework_poject/settings.py" />
         <option value="$PROJECT_DIR$/app01/views.py" />
         <option value="$PROJECT_DIR$/app03/views.py" />
-        <option value="$PROJECT_DIR$/rest_framework_poject/urls.py" />
-        <option value="D:/Anaconda/Lib/site-packages/rest_framework/request.py" />
         <option value="D:/Anaconda/Lib/site-packages/rest_framework/views.py" />
+        <option value="$PROJECT_DIR$/app01/AA.py" />
+        <option value="$PROJECT_DIR$/templates/app04/api.html" />
         <option value="$PROJECT_DIR$/app04/views.py" />
+        <option value="$PROJECT_DIR$/app04/templates/rest_framework/api.html" />
+        <option value="$PROJECT_DIR$/templates/rest_framework/api.html" />
+        <option value="$PROJECT_DIR$/app_version/urls.py" />
+        <option value="$PROJECT_DIR$/app_parser/urls.py" />
+        <option value="D:/Anaconda/Lib/site-packages/rest_framework/request.py" />
+        <option value="$PROJECT_DIR$/app_parser/views.py" />
+        <option value="$PROJECT_DIR$/app_serializers/models.py" />
+        <option value="D:/Anaconda/Lib/site-packages/rest_framework/serializers.py" />
+        <option value="D:/Anaconda/Lib/site-packages/django/db/models/fields/__init__.py" />
+        <option value="$PROJECT_DIR$/rest_framework_poject/urls.py" />
+        <option value="$PROJECT_DIR$/app_version/views.py" />
+        <option value="$PROJECT_DIR$/rest_framework_poject/settings.py" />
+        <option value="$PROJECT_DIR$/app_serializers/views.py" />
       </list>
     </option>
   </component>
@@ -345,10 +331,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-4" />
+    <option name="y" value="11" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -403,7 +392,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app04" />
+              <option name="myItemId" value="app_version" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,7 +406,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app02" />
+              <option name="myItemId" value="app_serializers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,8 +416,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="F:/Vue_project/rest_framework_project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/day143课上所有/s6day143 - 1 - 版本" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Django_project\rest_framework_poject\app_parser" />
+      <recent name="F:\Django_project\rest_framework_poject\app_version" />
+      <recent name="F:\Django_project\rest_framework_poject\app04\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Django_project\rest_framework_poject\templates\rest_framework" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -682,17 +682,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-4" y="11" width="1382" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16868381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3139932" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3225256" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22608696" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24232082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -709,13 +710,13 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3139932" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27986348" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43686005" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33617747" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33788395" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1732224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -734,591 +735,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/template/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6270">
-          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="332" selection-end-column="39" />
-          <folding>
-            <element signature="e#11770#12182#0" expanded="false" />
-            <element signature="e#12232#12523#0" expanded="false" />
-            <element signature="e#12592#12952#0" expanded="false" />
-            <element signature="e#13046#13408#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/template/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="106" column="36" lean-forward="false" selection-start-line="106" selection-start-column="36" selection-end-line="106" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-            <element signature="e#165#169#0" expanded="false" />
-            <element signature="e#430#1922#0" expanded="false" />
-            <element signature="e#430#499#0" expanded="false" />
-            <element signature="e#798#866#0" expanded="false" />
-            <element signature="e#1246#1316#0" expanded="false" />
-            <element signature="e#1554#1623#0" expanded="false" />
-            <element signature="e#1960#2489#0" expanded="false" />
-            <element signature="e#1960#2126#1" expanded="false" />
-            <element signature="e#2213#2354#0" expanded="false" />
-            <element signature="e#2243#2353#0" expanded="false" />
-            <element signature="e#2409#2464#0" expanded="false" />
-            <element signature="e#2541#2869#0" expanded="false" />
-            <element signature="e#2919#2933#0" expanded="false" />
-            <element signature="e#2989#3316#1" expanded="false" />
-            <element signature="e#3576#3847#0" expanded="false" />
-            <element signature="e#3576#3719#1" expanded="false" />
-            <element signature="e#3879#4065#1" expanded="false" />
-            <element signature="e#4436#4460#0" expanded="false" />
-            <element signature="e#4494#4726#0" expanded="false" />
-            <element signature="e#4532#4664#0" expanded="false" />
-            <element signature="e#4773#4997#0" expanded="false" />
-            <element signature="e#4811#4938#0" expanded="false" />
-            <element signature="e#5057#5185#0" expanded="false" />
-            <element signature="e#5240#5593#0" expanded="false" />
-            <element signature="e#5453#5593#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_framework_poject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_framework_poject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#655#687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8987">
-          <caret line="473" column="8" lean-forward="false" selection-start-line="473" selection-start-column="8" selection-end-line="473" selection-end-column="8" />
-          <folding>
-            <element signature="e#11770#12182#0" expanded="false" />
-            <element signature="e#12232#12523#0" expanded="false" />
-            <element signature="e#12592#12952#0" expanded="false" />
-            <element signature="e#13046#13408#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#49#1" expanded="false" />
-            <element signature="e#50#89#0" expanded="false" />
-            <element signature="e#471#614#1" expanded="false" />
-            <element signature="e#863#983#0" expanded="false" />
-            <element signature="e#907#983#0" expanded="false" />
-            <element signature="e#1024#1100#1" expanded="false" />
-            <element signature="e#1147#1236#1" expanded="false" />
-            <element signature="e#1363#1600#1" expanded="false" />
-            <element signature="e#1667#1735#1" expanded="false" />
-            <element signature="e#1817#1979#1" expanded="false" />
-            <element signature="e#2966#3099#1" expanded="false" />
-            <element signature="e#3696#3762#1" expanded="false" />
-            <element signature="e#3809#3938#1" expanded="false" />
-            <element signature="e#4352#4433#1" expanded="false" />
-            <element signature="e#4705#6672#0" expanded="false" />
-            <element signature="e#4705#4974#1" expanded="false" />
-            <element signature="e#5049#5184#0" expanded="false" />
-            <element signature="e#5190#5376#1" expanded="false" />
-            <element signature="e#5423#6175#0" expanded="false" />
-            <element signature="e#5610#5722#0" expanded="false" />
-            <element signature="e#5763#5890#0" expanded="false" />
-            <element signature="e#5983#6122#0" expanded="false" />
-            <element signature="e#6230#6599#0" expanded="false" />
-            <element signature="e#6653#6672#0" expanded="false" />
-            <element signature="e#6731#7441#0" expanded="false" />
-            <element signature="e#6731#7017#1" expanded="false" />
-            <element signature="e#7023#7095#0" expanded="false" />
-            <element signature="e#7311#7441#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6669">
-          <caret line="373" column="54" lean-forward="false" selection-start-line="373" selection-start-column="54" selection-end-line="373" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#388#1" expanded="false" />
-            <element signature="e#902#1183#0" expanded="false" />
-            <element signature="e#902#975#1" expanded="false" />
-            <element signature="e#1221#2106#0" expanded="false" />
-            <element signature="e#1221#1491#1" expanded="false" />
-            <element signature="e#1548#1676#0" expanded="false" />
-            <element signature="e#1711#1985#0" expanded="false" />
-            <element signature="e#2035#2106#0" expanded="false" />
-            <element signature="e#2153#2157#0" expanded="false" />
-            <element signature="e#2208#2552#0" expanded="false" />
-            <element signature="e#2208#2377#1" expanded="false" />
-            <element signature="e#2436#2552#0" expanded="false" />
-            <element signature="e#2580#2691#0" expanded="false" />
-            <element signature="e#2580#2682#1" expanded="false" />
-            <element signature="e#2723#2761#0" expanded="false" />
-            <element signature="e#2804#4054#0" expanded="false" />
-            <element signature="e#2804#2960#1" expanded="false" />
-            <element signature="e#4097#4439#0" expanded="false" />
-            <element signature="e#4097#4224#1" expanded="false" />
-            <element signature="e#4283#4350#0" expanded="false" />
-            <element signature="e#4397#4439#0" expanded="false" />
-            <element signature="e#4469#4847#1" expanded="false" />
-            <element signature="e#6179#6234#0" expanded="false" />
-            <element signature="e#6286#6386#0" expanded="false" />
-            <element signature="e#6432#6623#0" expanded="false" />
-            <element signature="e#6432#6521#1" expanded="false" />
-            <element signature="e#6675#6746#1" expanded="false" />
-            <element signature="e#6823#6930#0" expanded="false" />
-            <element signature="e#6974#7131#1" expanded="false" />
-            <element signature="e#7803#8087#0" expanded="false" />
-            <element signature="e#7803#7944#1" expanded="false" />
-            <element signature="e#7996#8061#0" expanded="false" />
-            <element signature="e#8141#8279#1" expanded="false" />
-            <element signature="e#8405#8708#0" expanded="false" />
-            <element signature="e#8405#8547#1" expanded="false" />
-            <element signature="e#8608#8673#0" expanded="false" />
-            <element signature="e#8754#9329#0" expanded="false" />
-            <element signature="e#8754#8822#1" expanded="false" />
-            <element signature="e#8875#9329#0" expanded="false" />
-            <element signature="e#8959#9046#0" expanded="false" />
-            <element signature="e#9123#9190#0" expanded="false" />
-            <element signature="e#9367#9904#0" expanded="false" />
-            <element signature="e#9952#10229#0" expanded="false" />
-            <element signature="e#9952#10032#1" expanded="false" />
-            <element signature="e#10068#10138#0" expanded="false" />
-            <element signature="e#10261#12304#0" expanded="false" />
-            <element signature="e#10261#10423#1" expanded="false" />
-            <element signature="e#10558#10970#0" expanded="false" />
-            <element signature="e#10632#10702#0" expanded="false" />
-            <element signature="e#11033#11297#0" expanded="false" />
-            <element signature="e#11579#12010#0" expanded="false" />
-            <element signature="e#11579#11642#0" expanded="false" />
-            <element signature="e#12020#12066#0" expanded="false" />
-            <element signature="e#12233#12304#0" expanded="false" />
-            <element signature="e#12343#12454#1" expanded="false" />
-            <element signature="e#12950#13100#1" expanded="false" />
-            <element signature="e#13480#13770#0" expanded="false" />
-            <element signature="e#13480#13631#1" expanded="false" />
-            <element signature="e#13814#14006#0" expanded="false" />
-            <element signature="e#13853#13996#0" expanded="false" />
-            <element signature="e#14050#14325#0" expanded="false" />
-            <element signature="e#14370#14666#0" expanded="false" />
-            <element signature="e#14370#14441#0" expanded="false" />
-            <element signature="e#14718#14926#0" expanded="false" />
-            <element signature="e#14757#14916#0" expanded="false" />
-            <element signature="e#14981#15128#0" expanded="false" />
-            <element signature="e#14981#15037#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-            <element signature="e#661#1394#0" expanded="false" />
-            <element signature="e#661#785#1" expanded="false" />
-            <element signature="e#831#1394#0" expanded="false" />
-            <element signature="e#1040#1357#0" expanded="false" />
-            <element signature="e#1445#1681#1" expanded="false" />
-            <element signature="e#1969#2018#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="249" column="20" lean-forward="true" selection-start-line="249" selection-start-column="20" selection-end-line="249" selection-end-column="20" />
-          <folding>
-            <element signature="e#5506#5854#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/core/handlers/exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/utils/six.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/hashlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="45" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/metadata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/views/decorators/csrf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/social_core/tests/test_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="70" column="16" lean-forward="false" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/views/generic/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/contrib/auth/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="335" column="4" lean-forward="false" selection-start-line="335" selection-start-column="4" selection-end-line="335" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/forms/renderers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/http/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="300" column="37" lean-forward="true" selection-start-line="300" selection-start-column="37" selection-end-line="300" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/AA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/renderers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="377" column="41" lean-forward="true" selection-start-line="377" selection-start-column="41" selection-end-line="377" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#287#1" expanded="false" />
-            <element signature="e#1310#1346#0" expanded="false" />
-            <element signature="e#1381#1782#0" expanded="false" />
-            <element signature="e#1381#1527#1" expanded="false" />
-            <element signature="e#1702#1782#0" expanded="false" />
-            <element signature="e#1823#4546#0" expanded="false" />
-            <element signature="e#1823#1873#1" expanded="false" />
-            <element signature="e#2103#2162#0" expanded="false" />
-            <element signature="e#2440#3099#0" expanded="false" />
-            <element signature="e#2476#2910#0" expanded="false" />
-            <element signature="e#2476#2536#0" expanded="false" />
-            <element signature="e#2910#2981#0" expanded="false" />
-            <element signature="e#3186#4546#0" expanded="false" />
-            <element signature="e#3186#3258#1" expanded="false" />
-            <element signature="e#3806#3876#0" expanded="false" />
-            <element signature="e#4109#4527#0" expanded="false" />
-            <element signature="e#4109#4176#0" expanded="false" />
-            <element signature="e#4595#7980#0" expanded="false" />
-            <element signature="e#4595#5208#1" expanded="false" />
-            <element signature="e#5314#5382#0" expanded="false" />
-            <element signature="e#5491#6555#0" expanded="false" />
-            <element signature="e#5491#5834#1" expanded="false" />
-            <element signature="e#6138#6255#0" expanded="false" />
-            <element signature="e#6314#6412#0" expanded="false" />
-            <element signature="e#6613#6658#0" expanded="false" />
-            <element signature="e#6728#6873#0" expanded="false" />
-            <element signature="e#6933#7414#0" expanded="false" />
-            <element signature="e#7472#7980#0" expanded="false" />
-            <element signature="e#7489#7603#0" expanded="false" />
-            <element signature="e#7630#7730#0" expanded="false" />
-            <element signature="e#7769#7977#0" expanded="false" />
-            <element signature="e#8104#9156#0" expanded="false" />
-            <element signature="e#8104#8452#1" expanded="false" />
-            <element signature="e#8610#9156#0" expanded="false" />
-            <element signature="e#8761#9135#0" expanded="false" />
-            <element signature="e#9201#13562#0" expanded="false" />
-            <element signature="e#9201#9568#1" expanded="false" />
-            <element signature="e#9756#11852#0" expanded="false" />
-            <element signature="e#9785#9872#0" expanded="false" />
-            <element signature="e#9906#9994#0" expanded="false" />
-            <element signature="e#10026#10112#0" expanded="false" />
-            <element signature="e#10148#10237#0" expanded="false" />
-            <element signature="e#10271#10360#0" expanded="false" />
-            <element signature="e#10397#10494#0" expanded="false" />
-            <element signature="e#10527#10614#0" expanded="false" />
-            <element signature="e#10647#10734#0" expanded="false" />
-            <element signature="e#10767#10854#0" expanded="false" />
-            <element signature="e#10890#10946#0" expanded="false" />
-            <element signature="e#10981#11064#0" expanded="false" />
-            <element signature="e#11107#11211#0" expanded="false" />
-            <element signature="e#11247#11330#0" expanded="false" />
-            <element signature="e#11370#11474#0" expanded="false" />
-            <element signature="e#11508#11564#0" expanded="false" />
-            <element signature="e#11602#11663#0" expanded="false" />
-            <element signature="e#11700#11755#0" expanded="false" />
-            <element signature="e#11788#11845#0" expanded="false" />
-            <element signature="e#11912#12828#0" expanded="false" />
-            <element signature="e#12915#13562#0" expanded="false" />
-            <element signature="e#12915#12999#1" expanded="false" />
-            <element signature="e#13458#13522#0" expanded="false" />
-            <element signature="e#13611#13671#1" expanded="false" />
-            <element signature="e#13959#14536#0" expanded="false" />
-            <element signature="e#13959#14080#1" expanded="false" />
-            <element signature="e#14101#14220#0" expanded="false" />
-            <element signature="e#14254#14371#0" expanded="false" />
-            <element signature="e#14648#15287#0" expanded="false" />
-            <element signature="e#14648#14763#1" expanded="false" />
-            <element signature="e#15072#15146#0" expanded="false" />
-            <element signature="e#15361#15791#0" expanded="false" />
-            <element signature="e#15361#15440#1" expanded="false" />
-            <element signature="e#15555#15678#0" expanded="false" />
-            <element signature="e#15891#16072#0" expanded="false" />
-            <element signature="e#15911#16023#0" expanded="false" />
-            <element signature="e#16149#18889#0" expanded="false" />
-            <element signature="e#16149#16362#1" expanded="false" />
-            <element signature="e#16544#16667#0" expanded="false" />
-            <element signature="e#16719#16783#0" expanded="false" />
-            <element signature="e#17006#17162#0" expanded="false" />
-            <element signature="e#17189#17239#0" expanded="false" />
-            <element signature="e#17317#18889#0" expanded="false" />
-            <element signature="e#17954#18097#0" expanded="false" />
-            <element signature="e#18146#18343#0" expanded="false" />
-            <element signature="e#18378#18825#0" expanded="false" />
-            <element signature="e#18493#18647#0" expanded="false" />
-            <element signature="e#18690#18825#0" expanded="false" />
-            <element signature="e#18953#19262#0" expanded="false" />
-            <element signature="e#19334#22344#0" expanded="false" />
-            <element signature="e#19334#19524#1" expanded="false" />
-            <element signature="e#19706#19829#0" expanded="false" />
-            <element signature="e#19949#22344#0" expanded="false" />
-            <element signature="e#20362#21383#0" expanded="false" />
-            <element signature="e#20362#20416#0" expanded="false" />
-            <element signature="e#21105#21196#0" expanded="false" />
-            <element signature="e#21446#21507#0" expanded="false" />
-            <element signature="e#21806#22303#0" expanded="false" />
-            <element signature="e#22384#22411#0" expanded="false" />
-            <element signature="e#22471#22621#0" expanded="false" />
-            <element signature="e#22671#22716#0" expanded="false" />
-            <element signature="e#22778#23742#0" expanded="false" />
-            <element signature="e#23097#23210#0" expanded="false" />
-            <element signature="e#23390#23554#0" expanded="false" />
-            <element signature="e#23438#23554#0" expanded="false" />
-            <element signature="e#23824#26818#0" expanded="false" />
-            <element signature="e#23824#23883#1" expanded="false" />
-            <element signature="e#24526#24676#0" expanded="false" />
-            <element signature="e#25200#26795#0" expanded="false" />
-            <element signature="e#26905#27695#0" expanded="false" />
-            <element signature="e#26905#26982#1" expanded="false" />
-            <element signature="e#27319#27377#0" expanded="false" />
-            <element signature="e#27745#31007#0" expanded="false" />
-            <element signature="e#27891#29714#0" expanded="false" />
-            <element signature="e#28216#28717#0" expanded="false" />
-            <element signature="e#28216#28278#0" expanded="false" />
-            <element signature="e#29102#29235#0" expanded="false" />
-            <element signature="e#29312#29694#0" expanded="false" />
-            <element signature="e#29394#29513#0" expanded="false" />
-            <element signature="e#29559#29673#0" expanded="false" />
-            <element signature="e#29796#31007#0" expanded="false" />
-            <element signature="e#29796#29873#1" expanded="false" />
-            <element signature="e#30130#30261#0" expanded="false" />
-            <element signature="e#30344#30384#0" expanded="false" />
-            <element signature="e#30437#30502#0" expanded="false" />
-            <element signature="e#30529#30574#0" expanded="false" />
-            <element signature="e#31057#32245#0" expanded="false" />
-            <element signature="e#31352#31525#0" expanded="false" />
-            <element signature="e#31359#31525#0" expanded="false" />
-            <element signature="e#31612#32245#0" expanded="false" />
-            <element signature="e#31663#31863#0" expanded="false" />
-            <element signature="e#31890#32245#0" expanded="false" />
-            <element signature="e#31964#32164#0" expanded="false" />
-            <element signature="e#32290#32818#0" expanded="false" />
-            <element signature="e#32504#32818#0" expanded="false" />
-            <element signature="e#32864#33548#0" expanded="false" />
-            <element signature="e#33089#33548#0" expanded="false" />
-            <element signature="e#33128#33495#0" expanded="false" />
-            <element signature="e#33176#33495#0" expanded="false" />
-            <element signature="e#33234#33471#0" expanded="false" />
-            <element signature="e#33593#34002#0" expanded="false" />
-            <element signature="e#33709#33782#0" expanded="false" />
-            <element signature="e#33860#34002#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding>
-            <element signature="e#524#623#1" expanded="false" />
-            <element signature="e#785#1046#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/template/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/shortcuts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/template/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/django/template/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="106" column="34" lean-forward="true" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-            <element signature="e#165#169#0" expanded="false" />
-            <element signature="e#430#1922#0" expanded="false" />
-            <element signature="e#430#499#0" expanded="false" />
-            <element signature="e#798#866#0" expanded="false" />
-            <element signature="e#1246#1316#0" expanded="false" />
-            <element signature="e#1554#1623#0" expanded="false" />
-            <element signature="e#1960#2489#0" expanded="false" />
-            <element signature="e#1960#2126#1" expanded="false" />
-            <element signature="e#2213#2354#0" expanded="false" />
-            <element signature="e#2243#2353#0" expanded="false" />
-            <element signature="e#2409#2464#0" expanded="false" />
-            <element signature="e#2541#2869#0" expanded="false" />
-            <element signature="e#2919#2933#0" expanded="false" />
-            <element signature="e#2989#3316#1" expanded="false" />
-            <element signature="e#3576#3847#0" expanded="false" />
-            <element signature="e#3576#3719#1" expanded="false" />
-            <element signature="e#3879#4065#1" expanded="false" />
-            <element signature="e#4436#4460#0" expanded="false" />
-            <element signature="e#4494#4726#0" expanded="false" />
-            <element signature="e#4532#4664#0" expanded="false" />
-            <element signature="e#4773#4997#0" expanded="false" />
-            <element signature="e#4811#4938#0" expanded="false" />
-            <element signature="e#5057#5185#0" expanded="false" />
-            <element signature="e#5240#5593#0" expanded="false" />
-            <element signature="e#5453#5593#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app01_userinfo">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -1331,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="1351" column="0" lean-forward="false" selection-start-line="1351" selection-start-column="0" selection-end-line="1351" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1347,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="98" column="40" lean-forward="false" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-254">
           <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1363,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="91" column="4" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="205" column="65" lean-forward="true" selection-start-line="203" selection-start-column="4" selection-end-line="205" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1379,22 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
-          <folding>
-            <element signature="e#831#1394#0" expanded="false" />
-            <element signature="e#2311#2603#0" expanded="false" />
-            <element signature="e#2648#2920#0" expanded="false" />
-            <element signature="e#2951#3217#0" expanded="false" />
-            <element signature="e#3249#3445#0" expanded="false" />
-            <element signature="e#3476#3803#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_framework_poject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1402,180 +805,317 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-312">
           <caret line="165" column="17" lean-forward="true" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#56#1" expanded="false" />
-            <element signature="e#248#326#1" expanded="false" />
-            <element signature="e#381#463#1" expanded="false" />
-            <element signature="e#550#652#0" expanded="false" />
-            <element signature="e#550#632#1" expanded="false" />
-            <element signature="e#691#882#1" expanded="false" />
-            <element signature="e#994#1160#0" expanded="false" />
-            <element signature="e#994#1052#1" expanded="false" />
-            <element signature="e#1107#1160#0" expanded="false" />
-            <element signature="e#1202#1352#0" expanded="false" />
-            <element signature="e#1202#1252#1" expanded="false" />
-            <element signature="e#1307#1352#0" expanded="false" />
-            <element signature="e#1408#1680#0" expanded="false" />
-            <element signature="e#1408#1490#1" expanded="false" />
-            <element signature="e#1545#1680#0" expanded="false" />
-            <element signature="e#1733#2120#1" expanded="false" />
-            <element signature="e#2126#2171#0" expanded="false" />
-            <element signature="e#2313#2609#0" expanded="false" />
-            <element signature="e#2715#3148#0" expanded="false" />
-            <element signature="e#2715#2851#1" expanded="false" />
-            <element signature="e#3189#3734#0" expanded="false" />
-            <element signature="e#3302#3410#0" expanded="false" />
-            <element signature="e#3508#3705#0" expanded="false" />
-            <element signature="e#3789#4294#0" expanded="false" />
-            <element signature="e#3789#3850#0" expanded="false" />
-            <element signature="e#4369#4481#1" expanded="false" />
-            <element signature="e#4580#4993#1" expanded="false" />
-            <element signature="e#5382#5670#0" expanded="false" />
-            <element signature="e#5391#5507#0" expanded="false" />
-            <element signature="e#6042#6105#0" expanded="false" />
-            <element signature="e#6276#6402#0" expanded="false" />
-            <element signature="e#6276#6330#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/throttling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
+        <state relative-caret-position="437">
           <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app03/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="95" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1310655275/_datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9918">
+          <caret line="522" column="8" lean-forward="false" selection-start-line="522" selection-start-column="8" selection-end-line="522" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/AA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app04/templates/rest_framework/api.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/rest_framework/api.html" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/django/conf/urls/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_version/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/versioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="177" column="15" lean-forward="false" selection-start-line="177" selection-start-column="8" selection-end-line="177" selection-end-column="15" />
           <folding>
-            <element signature="e#0#45#1" expanded="false" />
-            <element signature="e#293#337#1" expanded="false" />
-            <element signature="e#598#1307#0" expanded="false" />
-            <element signature="e#598#833#1" expanded="false" />
-            <element signature="e#1519#1938#1" expanded="false" />
-            <element signature="e#2343#2528#1" expanded="false" />
-            <element signature="e#2635#3148#0" expanded="false" />
-            <element signature="e#2635#2723#1" expanded="false" />
-            <element signature="e#3190#3571#0" expanded="false" />
-            <element signature="e#3190#3333#1" expanded="false" />
-            <element signature="e#3625#3802#1" expanded="false" />
-            <element signature="e#4058#4120#0" expanded="false" />
-            <element signature="e#4431#4537#1" expanded="false" />
-            <element signature="e#4702#4788#1" expanded="false" />
-            <element signature="e#4839#4916#1" expanded="false" />
-            <element signature="e#5327#5483#1" expanded="false" />
-            <element signature="e#5693#5782#0" expanded="false" />
-            <element signature="e#5833#6378#0" expanded="false" />
-            <element signature="e#5833#6070#1" expanded="false" />
-            <element signature="e#6143#6378#0" expanded="false" />
-            <element signature="e#6307#6378#0" expanded="false" />
-            <element signature="e#6431#8084#0" expanded="false" />
-            <element signature="e#6431#6737#1" expanded="false" />
-            <element signature="e#6805#6930#0" expanded="false" />
-            <element signature="e#6805#6872#0" expanded="false" />
-            <element signature="e#6984#7564#0" expanded="false" />
-            <element signature="e#7246#7310#0" expanded="false" />
-            <element signature="e#7618#8084#0" expanded="false" />
-            <element signature="e#7618#7840#1" expanded="false" />
-            <element signature="e#8013#8084#0" expanded="false" />
+            <element signature="e#945#1010#0" expanded="false" />
+            <element signature="e#1298#1994#0" expanded="false" />
+            <element signature="e#1298#1402#1" expanded="false" />
+            <element signature="e#1542#1994#0" expanded="false" />
+            <element signature="e#1874#1940#0" expanded="false" />
+            <element signature="e#2042#2608#1" expanded="false" />
+            <element signature="e#3090#3190#0" expanded="false" />
+            <element signature="e#3367#5132#0" expanded="false" />
+            <element signature="e#3367#4060#1" expanded="false" />
+            <element signature="e#4231#4694#0" expanded="false" />
+            <element signature="e#4563#4630#0" expanded="false" />
+            <element signature="e#4797#5026#0" expanded="false" />
+            <element signature="e#5093#5132#0" expanded="false" />
+            <element signature="e#5181#5986#0" expanded="false" />
+            <element signature="e#5181#5275#1" expanded="false" />
+            <element signature="e#5489#5986#0" expanded="false" />
+            <element signature="e#5843#5914#0" expanded="false" />
+            <element signature="e#6041#6144#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="989" column="4" lean-forward="false" selection-start-line="989" selection-start-column="4" selection-end-line="989" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="79" column="66" lean-forward="false" selection-start-line="79" selection-start-column="66" selection-end-line="79" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_parser/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app_serializers_menu">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app_serializers_group">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app_serializers_userinfo_roles">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app_serializers_roles">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d057a3b8/309dc90d-4e4e-420c-9019-04a00b8098bf/main.app_serializers_userinfo">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/_collections_abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="679" column="8" lean-forward="false" selection-start-line="679" selection-start-column="8" selection-end-line="679" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/utils/encoders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_parser/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="174" column="6" lean-forward="false" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/utils/serializer_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/utils/model_meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="347" column="6" lean-forward="false" selection-start-line="347" selection-start-column="6" selection-end-line="347" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_serializers/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+            <element signature="e#9187#9544#0" expanded="false" />
+            <element signature="e#10393#10775#0" expanded="false" />
+            <element signature="e#11457#12597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5073">
+          <caret line="306" column="8" lean-forward="false" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+          <folding>
+            <element signature="e#64498#65359#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rest_framework_poject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="760">
+          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
-            <element signature="e#655#687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app03/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="95" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <element signature="e#375#1488#0" expanded="false" />
-            <element signature="e#546#1318#0" expanded="false" />
-            <element signature="e#1348#1485#0" expanded="false" />
-            <element signature="e#1488#1537#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app02/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-284">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#49#1" expanded="false" />
-            <element signature="e#471#819#0" expanded="false" />
-            <element signature="e#471#614#1" expanded="false" />
-            <element signature="e#714#803#0" expanded="false" />
-            <element signature="e#863#983#0" expanded="false" />
-            <element signature="e#907#983#0" expanded="false" />
-            <element signature="e#1024#1100#1" expanded="false" />
-            <element signature="e#1147#1236#1" expanded="false" />
-            <element signature="e#1363#1600#1" expanded="false" />
-            <element signature="e#1667#1735#1" expanded="false" />
-            <element signature="e#1817#2884#0" expanded="false" />
-            <element signature="e#1817#1979#1" expanded="false" />
-            <element signature="e#2154#2266#0" expanded="false" />
-            <element signature="e#2307#2440#0" expanded="false" />
-            <element signature="e#2626#2755#0" expanded="false" />
-            <element signature="e#2966#3531#0" expanded="false" />
-            <element signature="e#2966#3099#1" expanded="false" />
-            <element signature="e#3122#3219#0" expanded="false" />
-            <element signature="e#3585#3640#0" expanded="false" />
-            <element signature="e#3696#4651#0" expanded="false" />
-            <element signature="e#3696#3762#1" expanded="false" />
-            <element signature="e#3809#4305#0" expanded="false" />
-            <element signature="e#3809#3938#1" expanded="false" />
-            <element signature="e#4352#4651#0" expanded="false" />
-            <element signature="e#4352#4433#1" expanded="false" />
-            <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4705#6672#0" expanded="false" />
-            <element signature="e#4705#4974#1" expanded="false" />
-            <element signature="e#5049#5184#0" expanded="false" />
-            <element signature="e#5190#5376#1" expanded="false" />
-            <element signature="e#5423#6175#0" expanded="false" />
-            <element signature="e#5610#5722#0" expanded="false" />
-            <element signature="e#5763#5890#0" expanded="false" />
-            <element signature="e#5983#6122#0" expanded="false" />
-            <element signature="e#6230#6599#0" expanded="false" />
-            <element signature="e#6653#6672#0" expanded="false" />
-            <element signature="e#6731#7441#0" expanded="false" />
-            <element signature="e#6731#7017#1" expanded="false" />
-            <element signature="e#7023#7095#0" expanded="false" />
-            <element signature="e#7311#7441#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="172" column="11" lean-forward="true" selection-start-line="172" selection-start-column="11" selection-end-line="172" selection-end-column="11" />
-          <folding>
-            <element signature="e#11770#12182#0" expanded="false" />
-            <element signature="e#12592#12952#0" expanded="false" />
+            <element signature="e#655#695#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1058">
-          <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+        <state relative-caret-position="551">
+          <caret line="141" column="6" lean-forward="false" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
           <folding>
             <element signature="e#0#388#1" expanded="false" />
             <element signature="e#902#1183#0" expanded="false" />
@@ -1599,44 +1139,29 @@
             <element signature="e#4283#4350#0" expanded="false" />
             <element signature="e#4397#4439#0" expanded="false" />
             <element signature="e#4469#4847#1" expanded="false" />
-            <element signature="e#4980#6134#0" expanded="false" />
-            <element signature="e#6179#6234#0" expanded="false" />
-            <element signature="e#6286#6386#0" expanded="false" />
-            <element signature="e#6432#6623#0" expanded="false" />
             <element signature="e#6432#6521#1" expanded="false" />
             <element signature="e#6675#6746#1" expanded="false" />
-            <element signature="e#6823#6930#0" expanded="false" />
             <element signature="e#6974#7131#1" expanded="false" />
             <element signature="e#7803#8087#0" expanded="false" />
             <element signature="e#7803#7944#1" expanded="false" />
             <element signature="e#7996#8061#0" expanded="false" />
             <element signature="e#8141#8279#1" expanded="false" />
             <element signature="e#8405#8547#1" expanded="false" />
-            <element signature="e#8754#9329#0" expanded="false" />
-            <element signature="e#8754#8822#1" expanded="false" />
-            <element signature="e#8875#9329#0" expanded="false" />
-            <element signature="e#8959#9046#0" expanded="false" />
-            <element signature="e#9123#9190#0" expanded="false" />
-            <element signature="e#9367#9904#0" expanded="false" />
             <element signature="e#9952#10229#0" expanded="false" />
             <element signature="e#9952#10032#1" expanded="false" />
             <element signature="e#10068#10138#0" expanded="false" />
-            <element signature="e#10261#12304#0" expanded="false" />
             <element signature="e#10261#10423#1" expanded="false" />
             <element signature="e#10558#10970#0" expanded="false" />
             <element signature="e#10632#10702#0" expanded="false" />
             <element signature="e#11033#11297#0" expanded="false" />
-            <element signature="e#11579#12010#0" expanded="false" />
             <element signature="e#11579#11642#0" expanded="false" />
             <element signature="e#12020#12066#0" expanded="false" />
-            <element signature="e#12233#12304#0" expanded="false" />
             <element signature="e#12343#12454#1" expanded="false" />
             <element signature="e#12950#13100#1" expanded="false" />
             <element signature="e#13480#13770#0" expanded="false" />
             <element signature="e#13480#13631#1" expanded="false" />
             <element signature="e#13814#14006#0" expanded="false" />
             <element signature="e#13853#13996#0" expanded="false" />
-            <element signature="e#14050#14325#0" expanded="false" />
             <element signature="e#14370#14666#0" expanded="false" />
             <element signature="e#14370#14441#0" expanded="false" />
             <element signature="e#14718#14926#0" expanded="false" />
@@ -1647,14 +1172,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="359" column="8" lean-forward="false" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
+          <folding>
+            <element signature="e#4212#5145#0" expanded="false" />
+            <element signature="e#5200#5335#0" expanded="false" />
+            <element signature="e#5399#5579#0" expanded="false" />
+            <element signature="e#5654#5847#0" expanded="false" />
+            <element signature="e#5913#6190#0" expanded="false" />
+            <element signature="e#6240#6372#0" expanded="false" />
+            <element signature="e#6430#6710#0" expanded="false" />
+            <element signature="e#6768#7175#0" expanded="false" />
+            <element signature="e#7221#7676#0" expanded="false" />
+            <element signature="e#7731#8054#0" expanded="false" />
+            <element signature="e#8093#8316#0" expanded="false" />
+            <element signature="e#8374#8600#0" expanded="false" />
+            <element signature="e#8693#8891#0" expanded="false" />
+            <element signature="e#8930#9090#0" expanded="false" />
+            <element signature="e#9323#9486#0" expanded="false" />
+            <element signature="e#9527#9696#0" expanded="false" />
+            <element signature="e#9735#9892#0" expanded="false" />
+            <element signature="e#10218#10339#0" expanded="false" />
+            <element signature="e#10455#10858#0" expanded="false" />
+            <element signature="e#10915#11204#0" expanded="false" />
+            <element signature="e#11256#11706#0" expanded="false" />
+            <element signature="e#11770#12182#0" expanded="false" />
+            <element signature="e#12232#12523#0" expanded="false" />
+            <element signature="e#14295#15476#0" expanded="false" />
+            <element signature="e#15523#16369#0" expanded="false" />
+            <element signature="e#16424#16720#0" expanded="false" />
+            <element signature="e#18035#18343#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app04/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        <state relative-caret-position="1273">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-            <element signature="e#1992#2029#0" expanded="false" />
-            <element signature="e#2649#2686#0" expanded="false" />
+            <element signature="e#2081#2118#0" expanded="false" />
+            <element signature="e#2738#2775#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_version/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_framework_poject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2698">
+          <caret line="142" column="35" lean-forward="false" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_serializers/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#262#469#0" expanded="false" />
+            <element signature="e#501#1016#0" expanded="false" />
+            <element signature="e#1130#1322#0" expanded="false" />
+            <element signature="e#1509#2279#0" expanded="false" />
+            <element signature="e#2312#2493#0" expanded="false" />
           </folding>
         </state>
       </provider>

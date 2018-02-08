@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app01.apps.App01Config',
+    'app_serializers.apps.AppSerializersConfig',  #注册app后，才能生成表
     'rest_framework',
 ]
 
@@ -123,13 +124,28 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 REST_FRAMEWORK = {
-        'UNAUTHENTICATED_USER': None,
-        'UNAUTHENTICATED_TOKEN': None,
+        'UNAUTHENTICATED_USER': None, #默认user
+        'UNAUTHENTICATED_TOKEN': None, # 默认auth
+        #认证
         # "DEFAULT_AUTHENTICATION_CLASSES": [
         #     "app01.utils.MyAuthentication",
         # ],
+        #节流
         'DEFAULT_THROTTLE_RATES':{
             'myscope_anon':'5/minute',
             'myscope_user':'10/minute',
-        }
+        },
+        #版本
+        'DEFAULT_VERSION':'v1',
+        'ALLOWED_VERSIONS':'[v1,v2]',
+        'VERSION_PARAM':'version',
+        # 'DEFAULT_VERSIONING_CLASS':"rest_framework.versioning.QueryParameterVersioning",
+        # 'DEFAULT_VERSIONING_CLASS':"rest_framework.versioning.URLPathVersioning",
+
+        #解析器 parser
+        'DEFAULT_PARSER_CLASSES':[
+            'rest_framework.parsers.JSONParser',
+            'rest_framework.parsers.FormParser',
+        ]
+
     }
